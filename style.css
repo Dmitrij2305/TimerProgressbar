@@ -1,0 +1,12 @@
+* {
+  font-family: 'Calibri';
+}
+.timer-progressbas {
+  display: flex;
+}
+.timer-progressbas__fill {
+  background-color: springgreen;
+}
+.timer-progressbas__empty {
+  background-color: tomato;
+}
